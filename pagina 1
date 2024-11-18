@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Violência Contra as Mulheres</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                line-height: 1.6;
+                color: #333;
+                background-color: #f9f9f9;
+            }
+            h1, h2 {
+                color: #d9534f;
+                text-align: center;
+            }
+            .container {
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 20px;
+                background-color: white;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            }
+            p, ul {
+                margin: 10px 0;
+            }
+            img {
+                max-width: 100%;
+                height: auto;
+                margin-top: 20px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Dia Internacional para a Eliminação da Violência Contra as Mulheres</h1>
+            <h2>Por que essa data é importante?</h2>
+            <p>25 de novembro, conhecido como Dia Laranja, convoca a mobilização global para prevenir e eliminar a violência contra mulheres e meninas.</p>
+
+            <section>
+                <h3>Origem da Data</h3>
+                <p>A data de 25 de novembro foi estabelecida pela ONU em 1999, em homenagem às irmãs Mirabal — ativistas políticas brutalmente assassinadas em 1960 pelo regime de Rafael Trujillo na República Dominicana...</p>
+            </section>
+
+            <section>
+                <h3>Estatísticas Globais</h3>
+                <ul>
+                    <li><strong>Violência Física e Sexual:</strong> Aproximadamente 1 em cada 3 mulheres já sofreu violência física ou sexual...</li>
+                    <li><strong>Feminicídio:</strong> Em 2021, mais de 45 mil mulheres foram assassinadas por razões de gênero...</li>
+                </ul>
+            </section>
+
+            <section>
+                <h3>Impacto da Violência</h3>
+                <p>A violência contra as mulheres causa consequências devastadoras para a saúde física e mental, além de impactos econômicos...</p>
+            </section>
+
+            <section>
+                <h3>Medidas para Combate e Conscientização</h3>
+                <p>Organizações internacionais, como a ONU, lançaram campanhas para sensibilizar o público sobre a prevenção e combate à violência de gênero...</p>
+            </section>
+
+            <img src="https://cdn.capitalnews.com.br/storage/webdisco/2020/03/08/660x420/048062eff36f92fe69dc895c7e058045.jpg" alt="Mulheres em manifestação" />
+
+        </div>
+    </body>
+</html>
+    
