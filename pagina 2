@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Entendendo as Diferentes Formas de Violência Contra a Mulher</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+            color: #333;
+        }
+        header {
+            background-color: #f4f4f4;
+            padding: 10px 20px;
+            border-bottom: 2px solid #ddd;
+        }
+        header h1 {
+            margin: 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        section h2 {
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+        footer {
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 10px 20px;
+            border-top: 2px solid #ddd;
+            margin-top: 20px;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Entendendo as Diferentes Formas de Violência Contra a Mulher</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Introdução</h2>
+            <p>A violência contra as mulheres é uma questão abrangente e complexa que vai muito além das agressões físicas. Trata-se de um fenômeno que inclui diversas formas de abuso, como violência psicológica, emocional, sexual, patrimonial e institucional.</p>
+            <p>Reconhecer a amplitude desse problema é essencial para construir estratégias eficazes de prevenção e enfrentamento, promovendo uma sociedade mais justa e igualitária.</p>
+        </section>
+        <section>
+            <h2>Tipos de Violência</h2>
+            <ul>
+                <li><strong>Violência Física:</strong> Qualquer ação que cause dano físico, como tapas, socos ou queimaduras.</li>
+                <li><strong>Violência Psicológica:</strong> Envolve humilhações, ameaças e controle emocional.</li>
+                <li><strong>Violência Sexual:</strong> Ações de natureza sexual impostas contra a vontade da mulher.</li>
+                <li><strong>Violência Econômica:</strong> Controle ou limitação dos recursos financeiros da mulher.</li>
+                <li><strong>Violência Digital:</strong> Abuso no ambiente virtual, como exposição de imagens íntimas ou ameaças.</li>
+                <li><strong>Violência Institucional:</strong> Negligência ou discriminação em instituições públicas ou privadas.</li>
+                <li><strong>Violência Obstétrica:</strong> Tratamento desumanizado durante o atendimento médico à gestante.</li>
+                <li><strong>Violência Moral:</strong> Condutas que denigrem a honra da mulher, como calúnias e difamações.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Como Reconhecer Sinais de Abuso</h2>
+            <ul>
+                <li><strong>Comportamento da vítima:</strong> Mudança de humor, lesões frequentes ou isolamento.</li>
+                <li><strong>Comportamento do agressor:</strong> Controle excessivo, ciúmes exacerbados ou desvalorização constante.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>O Que Fazer ao Encontrar uma Situação de Abuso</h2>
+            <ul>
+                <li><strong>Abordar com cuidado:</strong> Escute com empatia e ofereça informações sobre ajuda disponível.</li>
+                <li><strong>Buscar ajuda profissional:</strong> Utilize canais como o Disque 180 e acione a polícia em emergências.</li>
+                <li><strong>Respeitar a vítima:</strong> Evite culpabilizações e valorize o tempo dela para tomar decisões.</li>
+                <li><strong>Agir em situações de risco:</strong> Intervenha com segurança e registre evidências, se possível.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Como Apoiar a Prevenção</h2>
+            <p>Eduque sua comunidade sobre o tema, denuncie casos de violência e fortaleça as mulheres ao seu redor com apoio e diálogo aberto.</p>
+
+
+            <img src="https://sitraemg.org.br/wp-content/uploads/2021/11/WhatsApp-Image-2021-11-23-at-16.56.43-1.jpeg"
+        </section>
+    </main>
+    <footer>
+        
+    </footer>
+</body>
+</html>
