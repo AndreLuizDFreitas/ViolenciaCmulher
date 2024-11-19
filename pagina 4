@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Como Todos Nós Podemos Ajudar</title>
+    <style>
+        /* Estilo Geral */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f7fb; /* Azul claro suave */
+            color: #333;
+            line-height: 1.6;
+        }
+
+        header {
+            background-color: #004c97; /* Azul forte */
+            color: #fff;
+            padding: 20px 10%;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            margin: 0;
+        }
+
+        main {
+            padding: 40px 10%;
+        }
+
+        .section {
+            background-color: #fff; /* Fundo branco para destacar */
+            margin-bottom: 20px;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .section h2 {
+            color: #004c97;
+            margin-bottom: 15px;
+        }
+
+        .section p {
+            margin-bottom: 15px;
+        }
+
+        .section ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        .section ul li {
+            background-color: #e8f0fa; /* Azul bem claro */
+            margin-bottom: 10px;
+            padding: 10px 15px;
+            border-left: 4px solid #004c97;
+            border-radius: 4px;
+        }
+
+        .section ul li strong {
+            color: #004c97;
+        }
+
+        footer {
+            background-color: #333; /* Cinza escuro */
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        footer p {
+            margin: 0;
+        }
+
+        /* Links e Responsividade */
+        a {
+            color: #004c97;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+
+            main {
+                padding: 20px 5%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Como Todos Nós Podemos Ajudar a Eliminar a Violência Contra as Mulheres</h1>
+    </header>
+    <main>
+        <section class="section">
+            <h2>Seção de Ação Pessoal</h2>
+            <p>A mudança começa com cada um de nós. Veja algumas atitudes simples e eficazes:</p>
+            <ul>
+                <li><strong>Eduque e Conscientize:</strong> Compartilhe informações sobre igualdade de gênero e os impactos da violência. Converse com amigos, familiares e colegas sobre a importância do respeito mútuo.</li>
+                <li><strong>Diga Não ao Machismo:</strong> Confronte comentários e comportamentos discriminatórios ou abusivos, mesmo em situações cotidianas. Não rir ou apoiar piadas de mau gosto é um grande passo.</li>
+                <li><strong>Apoie Vítimas:</strong> Seja uma pessoa de confiança. Se alguém compartilhar sua história, ouça sem julgar e ofereça ajuda.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Ajuda Comunitária</h2>
+            <p>Contribuir com a causa vai além do individual. Aqui estão formas de participar ativamente:</p>
+            <ul>
+                <li><strong>Engaje-se em ONGs e Projetos Locais:</strong> Procure instituições que lutam contra a violência doméstica e participe de campanhas ou atividades de apoio.</li>
+                <li><strong>Promova Ações Locais:</strong> Organize ou participe de palestras, rodas de conversa e eventos de conscientização em sua comunidade.</li>
+                <li><strong>Doe ou Seja Voluntário:</strong> Muitas organizações precisam de apoio financeiro ou da dedicação de pessoas que queiram fazer a diferença.</li>
+            </ul>
+        </section>
+
+        <section class="section">
+            <h2>Informações de Denúncia</h2>
+            <p>A denúncia é uma ferramenta essencial para combater a violência e salvar vidas. Compartilhe e utilize esses canais:</p>
+            <ul>
+                <img src="https://www2.itanhaem.sp.gov.br/wp-content/uploads/2019/03/placa_disque_den%C3%BAncia.jpg" alt="Disk denuncia logo" class="center-img">
+                <li><strong>Disque 180:</strong> Serviço nacional gratuito e anônimo que orienta e acolhe vítimas de violência contra mulheres.</li>
+                <li><strong>Ligue 190:</strong> Utilize em situações de emergência.</li>
+                <li><strong>Centros de Referência:</strong> Busque apoio em centros especializados da sua cidade.</li>
+                <li><strong>Apoio Online:</strong> Muitos sites e redes sociais oferecem canais de comunicação direta com especialistas.</li>
+            </ul>
+        </section>
+    </main>
+    
+</body>
+</html>
