@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Histórias de Superação e Resiliência</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f4f0;
+            color: #333;
+        }
+
+        header {
+            background-color: #fff;
+            padding: 20px 10%;
+            border-bottom: 1px solid #ddd;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5em;
+            color: #b68973;
+        }
+
+        .container {
+            padding: 40px 10%;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section h2 {
+            color: #b68973;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+
+        .intro, .impact {
+            font-size: 1.1em;
+            line-height: 1.8;
+            margin-bottom: 20px;
+        }
+
+        .testimonial {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        .testimonial h3 {
+            font-size: 1.5em;
+            color: #b68973;
+        }
+
+        .testimonial p {
+            font-size: 1em;
+            margin-top: 10px;
+        }
+
+        .quote {
+            font-style: italic;
+            color: #555;
+            margin-top: 10px;
+        }
+
+        .center-img {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+
+        footer {
+            background-color: #fff;
+            padding: 20px 10%;
+            text-align: center;
+            border-top: 1px solid #ddd;
+        }
+
+        footer p {
+            font-size: 0.9em;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Histórias de Superação e Resiliência: Mulheres Inspiradoras</h1>
+    </header>
+
+    <!-- Adicione a classe center-img à imagem -->
+    <img src="https://images.pexels.com/photos/8553342/pexels-photo-8553342.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Imagem de Resiliência" class="center-img">
+
+    <main class="container">
+        <section class="section">
+            <h2>Introdução</h2>
+            <p class="intro">Dar voz às vítimas e sobreviventes é essencial para a conscientização e para a transformação social. Estas histórias destacam a força e a resiliência das mulheres que enfrentaram e superaram desafios.</p>
+        </section>
+
+        <section class="section">
+            <h2>Depoimentos</h2>
+
+            <div class="testimonial">
+                <h3>Maria Silva</h3>
+                <p>"Após enfrentar anos de desafios, encontrei a força para recomeçar. Hoje, compartilho minha história para inspirar outras mulheres."</p>
+                <img src="https://images.pexels.com/photos/29455605/pexels-photo-29455605/free-photo-of-violencia-de-genero.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Imagem depoimento" class="center-img">
+                <p class="quote">"Você é mais forte do que imagina."</p>
+            </div>
+
+            <div class="testimonial">
+                <h3>Juliana Costa</h3>
+                <p>"Minha jornada foi cheia de obstáculos, mas cada passo me trouxe mais perto da liberdade. Nunca desistam."</p>
+                    
+                <p class="quote">"Mesmo nos dias mais difíceis, há sempre esperança."</p>
+                
+                <!-- Imagem centralizada no depoimento -->
+                <img src="https://www.saquarema.rj.gov.br/wp-content/uploads/2021/06/violencia-contra-mulher2-Copia.jpg" alt="Mulher Inspiradora" class="center-img">
+            </div>
+        </section>
+
+        <section class="section">
+            <h2>Impacto e Reflexão</h2>
+            <p class="impact">Essas histórias inspiram mudanças na sociedade e ajudam a conscientizar sobre a importância de criar ambientes mais seguros e justos para todas as mulheres. A resiliência de cada mulher é um exemplo de força e coragem.</p>
+        </section>
+    </main>
+</body>
+</html>
